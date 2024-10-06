@@ -122,7 +122,7 @@ The challenge is split into two phases:
   - 🖥️ Simple HTTP Server using Sockets
 
 - **Week 7-8 (Days 46-60):**  
-  - 🏦 **Final Capstone Project : Stock Market Prediction System **  
+  - 🏦 **Stock Market Prediction System (Capstone Project)**  
     - 📊 Implement a stock price prediction system using historical stock data.
     - 🧮 Use regression analysis and machine learning (using libraries like `Eigen` or custom implementations) to predict future prices.
     - 💻 Features include:  
@@ -132,6 +132,8 @@ The challenge is split into two phases:
       - Build a user interface to simulate trades and backtest strategies.
     - ⚙️ Use multithreading for handling data collection, analysis, and prediction in real-time.
     
+- **Final Capstone Project: Traffic Simulation**  
+  - 🔀 Use multithreading to simulate real-time traffic
 
 ---
 
@@ -139,22 +141,22 @@ The challenge is split into two phases:
 
 | Week | Topic | Completed (Yes/No) |
 |------|-------|---------------------|
-| 1    | Introduction to C++ | ❌ |
-| 2    | Functions and Arrays | ❌ |
-| 3    | Loops and Strings | ❌ |
-| 4    | Pointers and Dynamic Memory | ❌ |
-| 5    | Object-Oriented Programming | ❌ |
-| 6    | Inheritance | ❌ |
-| 7    | Polymorphism | ❌ |
-| 8    | Templates and Exception Handling | ❌ |
-| 9    | Arrays, Linked Lists | ❌ |
-| 10   | Searching and Sorting | ❌ |
-| 11   | Trees and Graphs | ❌ |
-| 12   | Dynamic Programming | ❌ |
-| 13   | STL | ❌ |
-| 14   | File Handling | ❌ |
-| 15   | Multithreading | ❌ |
-| 16   | Socket Programming | ❌ |
+| 1    | Introduction to C++ | ✅ / ❌ |
+| 2    | Functions and Arrays | ✅ / ❌ |
+| 3    | Loops and Strings | ✅ / ❌ |
+| 4    | Pointers and Dynamic Memory | ✅ / ❌ |
+| 5    | Object-Oriented Programming | ✅ / ❌ |
+| 6    | Inheritance | ✅ / ❌ |
+| 7    | Polymorphism | ✅ / ❌ |
+| 8    | Templates and Exception Handling | ✅ / ❌ |
+| 9    | Arrays, Linked Lists | ✅ / ❌ |
+| 10   | Searching and Sorting | ✅ / ❌ |
+| 11   | Trees and Graphs | ✅ / ❌ |
+| 12   | Dynamic Programming | ✅ / ❌ |
+| 13   | STL | ✅ / ❌ |
+| 14   | File Handling | ✅ / ❌ |
+| 15   | Multithreading | ✅ / ❌ |
+| 16   | Socket Programming | ✅ / ❌ |
 
 ---
 
@@ -163,3 +165,4 @@ The challenge is split into two phases:
 Feel free to fork this repository and join me in this 120-day challenge. You can open a pull request to share your code or improvements. Let's learn and build together! 💪
 
 Stay tuned for updates as I document my progress! ✍️
+
